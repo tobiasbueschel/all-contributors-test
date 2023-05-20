@@ -1,0 +1,13 @@
+{
+  "projectName": "all-contributors-test",
+  "projectOwner": "tobiasbueschel",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md",
+  ],
+  "imageSize": 80,
+  "commit": true,
+  "commitConvention": "angular",
+  "commitType": "chore"
+}
