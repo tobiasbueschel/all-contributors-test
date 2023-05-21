@@ -9,5 +9,17 @@
   "imageSize": 80,
   "commit": true,
   "commitConvention": "angular",
-  "commitType": "chore"
+  "commitType": "chore",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "tobiasbueschel",
+      "name": "Tobias Büschel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13087421?v=4",
+      "profile": "http://linkedin.com/in/tbueschel",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }
